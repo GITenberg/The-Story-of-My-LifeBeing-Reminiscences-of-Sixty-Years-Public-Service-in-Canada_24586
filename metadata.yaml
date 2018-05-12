@@ -1,0 +1,41 @@
+_repo: The-Story-of-My-LifeBeing-Reminiscences-of-Sixty-Years-Public-Service-in-Canada_24586
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ryerson, Egerton
+    birthdate: 1803
+    deathdate: 1882
+    gutenberg_agent_id: '9671'
+    url: http://www.gutenberg.org/2009/agents/9671
+    wikipedia: http://en.wikipedia.org/wiki/Egerton_Ryerson
+  editor:
+    agent_name: Hodgins, J. George (John George)
+    alias: Hodgins, John George
+    birthdate: 1821
+    deathdate: 1912
+    gutenberg_agent_id: '26598'
+    url: http://www.gutenberg.org/2009/agents/26598
+description: ''
+gutenberg_bookshelf: Canada
+gutenberg_issued: '2008-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24586'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ontario -- Politics and government -- 19th century'
+- !lcsh 'Ryerson, Egerton, 1803-1882'
+- !lcc 'F1001'
+- !lcsh 'Canada -- History -- 1763-'
+- !lcsh 'Educators -- Canada -- Biography'
+- !lcc 'CT'
+title: 'The Story of My Life
+
+  Being Reminiscences of Sixty Years'' Public Service in Canada'
+url: http://www.gutenberg.org/ebooks/24586
